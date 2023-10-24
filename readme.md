@@ -13,3 +13,7 @@ Python的实用性很强，简洁的语言哲学很诱人，加之干活要用�
 ## Introduction
 
 课程共10讲。对于有C基础的学生，前3讲的主题更接近复习，可以快速扫过。后面讲的异常、库、单元测试、文件、正则、面向对象等主题，则都是实用的新内容。
+
+本项目仅供[参考](https://cs50.harvard.edu/python/2022/honesty/)。
+
+> Not Reasonable: Providing or making available solutions to assessments to anyone, whether a past, present, or prospective future student.
