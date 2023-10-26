@@ -42,4 +42,6 @@
 
 ## Problem Set 2
 
-- Python 推荐使用下划线命名（snake_case）而非驼峰命名（camelCase）
+- Python推荐使用下划线命名（snake_case）而非驼峰命名（camelCase）
+- str.isalpha函数还能识别各种非英语字母
+- nutrition这题有点抽象，不过能学点健康知识
