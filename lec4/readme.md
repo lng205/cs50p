@@ -39,3 +39,5 @@
 - 使用+=拼接列表时，Python会将右侧视为可迭代对象，比如会将字符串视为字符列表，并进行拼接。str.append则会将参数视为一个整体
 - Litter Professor题目要求的的单位加法随机数范围包括了零
 - request.get()会通过API获取一个对象，对其调用json方法可以按json格式解码从服务器收到的数据
+- bitcoin爬取了实时比特币价，check50也会根据实时价格来检查，有助入门网络爬虫
+- str.isnumeric和str.isalpha会检查Unicode中所有符合要求的字符，比如罗马数字和西文字母
