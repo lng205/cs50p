@@ -29,3 +29,13 @@
     if __name__ == "__main__":
         main()
     ```
+
+## Problem Set 4
+
+- 梯子难以跑出的速度
+
+![speed](net.png)
+
+- 使用+=拼接列表时，Python会将右侧视为可迭代对象，比如会将字符串视为字符列表，并进行拼接。str.append则会将参数视为一个整体
+- Litter Professor题目要求的的单位加法随机数范围包括了零
+- request.get()会通过API获取一个对象，对其调用json方法可以按json格式解码从服务器收到的数据
