@@ -8,9 +8,9 @@ Python的实用性很强，简洁的语言哲学很诱人，加之干活要用�
 
 > Whereas CS50x itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
 
-[鸭鸭助手](https://cs50.ai/chat)
+CS50X传承了许多年而50P是新开的课，因此，这门课的设计没有CS50X对C的介绍那么惊艳，课程选择讲解的功能特性、举例以及难度曲线没有CS50X那般完美。尽管如此，CS50P仍然为高速迭代而且功能特性相当丰富的Python，提供了一个新且好的入门课程选择。
 
-CS50的CodeSpace环境提供一个定制的VScodeUI，可以一键优化格式。内嵌基于ChatGPT的AI助手。
+CS50的CodeSpace环境提供一个定制的VScodeUI，可以一键优化格式。内嵌基于ChatGPT的[AI助手](https://cs50.ai/chat)。
 
 ## Introduction
 
