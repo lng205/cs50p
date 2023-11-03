@@ -6,6 +6,16 @@
 - 测试用例常命名为test_测试对象名
 - pytest库可帮助测试。可将测试文件打包（package）进行测试
 - 将函数的副作用（side effect）改为返回值可以使测试更方便
+- [断言函数抛出异常](https://docs.pytest.org/en/latest/how-to/assert.html#assertions-about-expected-exceptions)
+
+     ```python
+     import pytest
+
+
+    def test_zero_division():
+        with pytest.raises(ZeroDivisionError):
+            1 / 0
+     ```
 
 ## Problem Set 5
 
