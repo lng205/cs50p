@@ -67,3 +67,11 @@
 - ~~Harry Potter 粉丝向课程~~
 
 - 操作符可以被赋予新功能（**operator overload**）。"+"会调用左侧对象的"\_\_add\_\_"方法
+
+## Problem Set 8
+
+课程与音乐，影视，文学的结合随处可见，十分有趣。
+
+- date需要理解文档里对类的描述，用到了所学的构造器（constructor），类方法（class method）等知识。
+
+- date1-date2得到的是datetime类型对象。datetime类没有被引用所以不能直接访问这个类，但是通过date类构建得到的datetime对象可以正常访问其属性和方法。
