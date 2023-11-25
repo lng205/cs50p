@@ -1,5 +1,7 @@
 # Lec 9
 
+[notes](https://cs50.harvard.edu/python/2022/notes/9/)
+
 本节是各种相关知识的补充。
 
 - 集合（set）类型会自动去除重复数据
